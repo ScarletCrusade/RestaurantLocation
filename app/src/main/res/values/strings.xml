@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RestaurantMap</string>
+
+    <string name="my_map_api_key">AIzaSyBEOdT5KARB7GeP5lw8n8tY557oJGg3y_U</string>
+</resources>
